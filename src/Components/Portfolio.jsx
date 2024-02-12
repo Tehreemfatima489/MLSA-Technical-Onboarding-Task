@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/desk.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Netflix Clone Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Successfully created a website mirroring the design and functionality of Netflix's original platform.",
+    url: "https://www.youtube.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Travel Booking Platform",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Developed a travel booking website allowing users to search, compare, and book flights, hotels, and rental cars.",
+    url: "https://www.youtube.com/",
   },
   {
-    title: "My Resume Site",
+    title: "Blog Publishing Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Designed and deployed a blog publishing platform for content creators to share articles, images, and videos.",
+    url: "https://www.youtube.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Food Delivery Service",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a food delivery website enabling users to browse menus, place orders, and track deliveries from local restaurants.",
+    url: "https://www.youtube.com/",
   },
 ];
 
